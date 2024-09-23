@@ -1,0 +1,14 @@
+{
+  "name": "sanber-javascript-part1",
+  "version": "1.0.0",
+  "description": "aplikasi belajar javascript sanber code part 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "node file_name"
+  },
+  "author": "aldi",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
